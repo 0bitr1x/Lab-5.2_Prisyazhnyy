@@ -1,6 +1,7 @@
-﻿using System.Text;
+//сборник задач/тема 5/подтема 5.2/средний уровень/вариант 24
+using System.Text;
 
-Console.WriteLine("Vvedite text: ");
+Console.WriteLine("Введите текст: ");
 string str_ch = Console.ReadLine();
 StringBuilder item1 = new StringBuilder();
 StringBuilder item0 = new StringBuilder();
